@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="scripts/jszip.min.js"></script>
+    <script src="scripts/Utils.js"></script>
+    <script src="scripts/App.js"></script>
+    <script src="scripts/BCP.js"></script>
+</head>
+<body>
+<style>
+body
+{
+    width: 100%;
+    min-width: 300px;
+    margin: 0;
+    overflow:hidden;
+}
+.main
+{
+	display: grid;
+    grid-template-columns: 30vw auto;
+    grid-template-rows: min-content min-content auto;
+	grid-template-areas:
+        "header header"
+        "control control"
+        "left content";
+    min-height: 100vh;
+	max-height: 100vh;
+    min-width: 100vw;  
+    box-sizing: border-box;
+    width:100%;
+    height: 100vh;
+ 
+}
+.header
+{
+    grid-area: header;
+}
+.control
+{
+    grid-area: control;
+}
+.files
+{
+
+    grid-area: left;
+    overflow: auto;
+    max-height: 100%;
+}
+.content
+{
+    grid-area: content;
+    overflow: auto;
+    max-height: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+a 
+{cursor:pointer;
+   color:blue;
+   text-decoration:underline; 
+
+}
+table {
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+thead>tr>th {
+position:fixed;
+}
+tbody>tr>th {
+top:0px;
+background-color:lightblue;
+position:sticky !important;
+}
+
+table>caption{
+    text-align:left;
+}
+
+
+</style>
+<div class="main">
+	<div class="header">
+	BCP Studio
+	</div>
+    <div class="control">
+        <input type="file" multiple onchange="Application.HandleFiles(this)" />
+		<label>Search</label>
+		<input class="tbsearch" type="text"/>
+		<button class="bsearch">Search</button>
+    </div>
+    <br>
+	<div class="files">
+	<ul  >
+
+	</ul>
+	</div>
+	<div class="content" >
+         <table cellspacing="0" cellpadding="1" border="1" width="300" onclick="Application.TableClicked(event)" >
+        </table>
+	</div>
+</div>
+</body>
+</html>

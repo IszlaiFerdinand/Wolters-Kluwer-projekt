@@ -1,0 +1,40 @@
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\BCPStudio.exe
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.csprojAssemblyReference.cache
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.AssemblyInfoInputs.cache
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.AssemblyInfo.cs
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.RazorTargetAssemblyInfo.cache
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\staticwebassets\BCPStudio.StaticWebAssets.Manifest.cache
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\staticwebassets\BCPStudio.StaticWebAssets.xml
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\BCPStudio.deps.json
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\BCPStudio.runtimeconfig.json
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\BCPStudio.runtimeconfig.dev.json
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\BCPStudio.dll
+C:\My\Developement\BCPStudio\bin\Debug\netcoreapp3.1\BCPStudio.pdb
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.csproj.CoreCompileInputs.cache
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.MvcApplicationPartsAssemblyInfo.cache
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.dll
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.pdb
+C:\My\Developement\BCPStudio\obj\Debug\netcoreapp3.1\BCPStudio.genruntimeconfig.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\BCPStudio.exe
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\BCPStudio.deps.json
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\BCPStudio.runtimeconfig.json
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\BCPStudio.runtimeconfig.dev.json
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\BCPStudio.dll
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\bin\Debug\netcoreapp3.1\BCPStudio.pdb
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.csprojAssemblyReference.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.AssemblyInfoInputs.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.AssemblyInfo.cs
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.csproj.CoreCompileInputs.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.RazorTargetAssemblyInfo.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\BCPStudio.StaticWebAssets.Manifest.cache
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\staticwebassets\BCPStudio.StaticWebAssets.xml
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.dll
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.pdb
+C:\Users\UltraBook\Desktop\Wolters projekt\projekt\obj\Debug\netcoreapp3.1\BCPStudio.genruntimeconfig.cache
